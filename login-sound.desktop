@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Login Sound
+Comment=The Sound Of Login
+Exec=aplay -q /var/home/YOUR_HOME_FOLDER/.local/share/sounds/login.wav
+Icon=system-run-symbolic
+Terminal=false
+Type=Application
