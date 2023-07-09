@@ -1,3 +1,6 @@
+> **Warning**
+> This repository has been moved to [Codeberg](https://codeberg.org/daudix-UFO/Aperture-Science-Login-Sound-Initiative), all future work will continue there.
+
 # Aperture Science Login Sound Initiative
 
 This is simple `.desktop` file that plays Portal 2 intro sound
